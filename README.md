@@ -18,8 +18,8 @@ Elite-MD Multi Device Whatsapp Bot.
 
 ***
 #### SEson id (not completed)
-<a href="https://github.com/Bit-X-TM/ELITE-MD/fork">
-   
+##### Use A United States VPN To Solve Qr/Pairing Not Connecting Problem
+<a href="https://session-generate-lovat.vercel.app/"><img title="ELite-MD Session ID" src="https://img.shields.io/badge/GET SESSION ID-h?color=black&style=for-the-badge&logo=msi"></a>
 #### SETUP
 
 Fork The Repo
