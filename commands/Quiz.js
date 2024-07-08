@@ -2,6 +2,11 @@ const { cmd, getRandomInt } = require('../lib');
 
 const quizQuestions = [
     {
+        question: "Who is koduruwa",
+        options: ["A. Jithula", "B. Nethindu ", "C. Sanuja"],
+        correctAnswer: "A"
+    },
+    {
         question: "What is the capital of France?",
         options: ["A. London", "B. Berlin", "C. Paris"],
         correctAnswer: "C"
@@ -18,20 +23,20 @@ const quizQuestions = [
     },
 
     {
-        question: "WHO IS THE OWNER OF IZUKU?",
-        options: ["A. EO", "B. SP", "C. SL"],
+        question: "WHO IS THE OWNER OF Malmanika?",
+        options: ["A. Sanuja", "B. No name", "C. No name"],
         correctAnswer: "A"
     },
 
     {
-        question: "IZUKU IS MADE FROM WHAT LANGUAGE ?",
+        question: "Elite IS MADE FROM WHAT LANGUAGE ?",
         options: ["A. NODE", "B. JAVA", "C. REACT"],
         correctAnswer: "A"
     },
     
     {
-        question: "martin luther king jnr was who?",
-        options: ["A. BLACK LIVES ACTIVIST", "B. CLEANER", "C. PORN ACTOR🤡"],
+        question: "Gotukolaya was who?",
+        options: ["A. Maduka", "B. CLEANER", "C. Porn actor"],
         correctAnswer: "A"
     },
 
@@ -42,8 +47,8 @@ const quizQuestions = [
     },
 
     {
-        question: "ANOTHER NAME FOR ELITE IS?",
-        options: ["A. London", "B. Berlin", "C. Paris"],
+        question: "ANOTHER NAME FOR Rakmith IS?",
+        options: ["A. Miti sudhu kota eka", "B. Modaya", "C. Chuti pitha"],
         correctAnswer: "C"
     },
     
