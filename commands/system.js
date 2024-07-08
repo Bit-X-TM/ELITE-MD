@@ -232,18 +232,18 @@ cmd({
             desc: "is bot alive??"
         },
         async(Void, citel, text, isAdmins) => {
-            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by Nethindu .*`
+            let alivemessage = Config.ALIVE_MESSAGE || `𝗔 𝗕𝗼𝘁 𝗱𝗲𝘃𝗼𝗹𝗼𝗽𝗲𝗱 𝗯𝘆 𝗕𝗜𝗧-𝗫ᵗᵐ`
             const alivtxt = `
-*Hello, ${citel.pushName},*
-_This is  ELite Md_
+Hello, ${citel.pushName},
+This is  𝗘𝗟𝗜𝗧𝗘 𝗠𝗗
 ${alivemessage}
 ◈Version:- _1.0_
 ◈Uptime:- _${runtime(process.uptime())}_
 ◈Owner:- _${Config.ownername}_
 ◈Branch:- _${Config.BRANCH}_
-_Type ${prefix}menu for my command list._
+Type ${prefix}menu for my command list.
 
-_Powered by ${Config.ownername}_
+> © 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 ᳆⃞⃚🇱🇰ʀͥᴇᷧᴀͫʟ⃟   𝙴𝙻𝙸𝚃𝙴-𝚖𝚍
 `;
             let aliveMessage = {
                 image: {
