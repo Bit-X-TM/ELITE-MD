@@ -4,16 +4,16 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 //═══════[Required Variables for elite]════════\\
 global.owner = process.env.OWNER_NUMBER || '94775686166'
-global.mongodb = process.env.MONGODB_URI || "mongodb://u67wtnui9m87lq4yhmvv:tpelVygzO9NWafGwF0D@bmrkwjjqyq2xfesqxn7z-mongodb.services.clever-cloud.com:2052/bmrkwjjqyq2xfesqxn7z"
+global.mongodb = process.env.MONGODB_URI || "mongodb+srv://Jithula:Jithula@cluster0.i9f4p.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 global.port= process.env.PORT || 5000
-global.email = 'sam@secktor.live'
+global.email = 'Eboxsrilanka2009@gmail.com'
 global.github = 'https://github.com/bit-x-tm/elite-md'
 global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/ebox@nt' // add your username
 global.sudo = process.env.SUDO || '2347039570336,2348050907760'
 global.devs = '2347039570336,2348050907760';
 global.website = 'http://www.ebox.free.nf/?i=1' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/c8bdeb8c2c10f83532444.png'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/ad72b729bc880fa0d13f3.png'
 module.exports = {
   
   sessionName:  process.env.SESSION_ID ||  "PASTE YOUR SESSION ID HERE",
@@ -50,8 +50,8 @@ recordingpresence:  process.env.RECORDING === undefined ? false : process.env.RE
     APP_NAME: process.env.HEROKU_APP_NAME === undefined ? '' : process.env.HEROKU_APP_NAME
 },
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
-  LANG: process.env.THEME|| 'IZUKU',
-  WORKTYPE: process.env.WORKTYPE === undefined ? 'private' : process.env.WORKTYPE
+  LANG: process.env.THEME|| 'ADAM',
+  WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
 };
 
 
