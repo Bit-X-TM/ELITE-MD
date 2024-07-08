@@ -8,7 +8,60 @@ const readmore = long.repeat(4001)
 const Secktor = require('../lib/commands')
 
     //---------------------------------------------------------------------------
-function _0x5a03(_0x5b38bb,_0xaa0e91){const _0x4751b1=_0x4751();return _0x5a03=function(_0x5a032c,_0x1c7f9f){_0x5a032c=_0x5a032c-0xac;let _0x4e69b1=_0x4751b1[_0x5a032c];return _0x4e69b1;},_0x5a03(_0x5b38bb,_0xaa0e91);}const _0x1c8982=_0x5a03;function _0x4751(){const _0x190138=['uptime','\x0a│\x20Time:\x20','\x0a│\x20Uptime:\x20','cmd','pushName','╭─────────────╮\x0a│\x20User:\x20','40WZihcb','DD/MM/YYYY','*🍁Command:*\x20','reply','*😔No\x20Such\x20commands.*','1459368eLOBAY','help\x20cmd_\x20name\x20to\x20know\x20more\x20about\x20a\x20specific\x20command.\x0a*Eg:*\x20_','319lsPaJa','setDefault','23196kNEdYx','┏━━⟪\x20','freemem','general','\x0a│\x20Theme:\x20','menu','┌──\x20*','format','push','alias','toLowerCase','countDocuments','dontAddCommandList','4844875ZDSPoV','2jkKcOw','split','join','*⚡️Type:*\x20_','└─────────────┘\x0a\x0a','*⚡️Alias:*\x20','sendMessage','*✨Category:*\x20','length','\x0a│\x20Mem:\x20','desc','793190TDEqgf','430PFhoMm','pattern','\x0a│\x20Users:\x20','use','3015879epICKx','chat','Help\x20list','Africa/Lagos','map','HH:mm:ss','1058940AVMKyU','help\x20attp_\x0a*Made\x20by\x20🥷\x20Excel*','*\x20──┐\x0a','711536SMwwtA','\x0a│\x20Plugins:\x20','category','locale','totalmem','help'];_0x4751=function(){return _0x190138;};return _0x4751();}(function(_0x5c062d,_0x57affc){const _0x542584=_0x5a03,_0x374842=_0x5c062d();while(!![]){try{const _0x184cc1=parseInt(_0x542584(0xb2))/0x1*(-parseInt(_0x542584(0xd5))/0x2)+parseInt(_0x542584(0xe5))/0x3+-parseInt(_0x542584(0xc7))/0x4*(parseInt(_0x542584(0xe1))/0x5)+parseInt(_0x542584(0xaf))/0x6+-parseInt(_0x542584(0xd4))/0x7+parseInt(_0x542584(0xbe))/0x8*(-parseInt(_0x542584(0xc3))/0x9)+parseInt(_0x542584(0xe0))/0xa*(parseInt(_0x542584(0xc5))/0xb);if(_0x184cc1===_0x57affc)break;else _0x374842['push'](_0x374842['shift']());}catch(_0x11ce4e){_0x374842['push'](_0x374842['shift']());}}}(_0x4751,0xbbb83),Secktor[_0x1c8982(0xbb)]({'pattern':_0x1c8982(0xb7),'alias':[_0x1c8982(0xcc)],'desc':_0x1c8982(0xe7),'category':_0x1c8982(0xca),'react':'📡','filename':__filename},async(_0x37ca48,_0x2395f3,_0x29f0d7)=>{const _0x32a122=_0x1c8982,{commands:_0x4e5075}=require('../lib');if(_0x29f0d7[_0x32a122(0xd6)]('\x20')[0x0]){let _0x223765=[];const _0x187d60=_0x4e5075['find'](_0x643273=>_0x643273[_0x32a122(0xe2)]===_0x29f0d7[_0x32a122(0xd6)]('\x20')[0x0][_0x32a122(0xd1)]());if(!_0x187d60)return await _0x2395f3[_0x32a122(0xc1)](_0x32a122(0xc2));else _0x223765[_0x32a122(0xcf)](_0x32a122(0xc0)+_0x187d60[_0x32a122(0xe2)]);if(_0x187d60[_0x32a122(0xb4)])_0x223765[_0x32a122(0xcf)](_0x32a122(0xdc)+_0x187d60['category']);if(_0x187d60[_0x32a122(0xd0)])_0x223765[_0x32a122(0xcf)](_0x32a122(0xda)+_0x187d60[_0x32a122(0xd0)]);if(_0x187d60['desc'])_0x223765['push']('*🗂Description:*\x20'+_0x187d60[_0x32a122(0xdf)]);if(_0x187d60[_0x32a122(0xe4)])_0x223765[_0x32a122(0xcf)]('*📡Usage:*\x0a\x20```'+prefix+_0x187d60[_0x32a122(0xe2)]+'\x20'+_0x187d60[_0x32a122(0xe4)]+'```');return await _0x2395f3[_0x32a122(0xc1)](_0x223765[_0x32a122(0xd7)]('\x0a'));}else{const _0x3d2691={};_0x4e5075[_0x32a122(0xad)](async(_0x22b7ed,_0x460315)=>{const _0x5cbaf5=_0x32a122;if(_0x22b7ed[_0x5cbaf5(0xd3)]===![]&&_0x22b7ed[_0x5cbaf5(0xe2)]!==undefined){if(!_0x3d2691[_0x22b7ed[_0x5cbaf5(0xb4)]])_0x3d2691[_0x22b7ed[_0x5cbaf5(0xb4)]]=[];_0x3d2691[_0x22b7ed['category']][_0x5cbaf5(0xcf)](_0x22b7ed[_0x5cbaf5(0xe2)]);}});const _0x410639=moment(moment())[_0x32a122(0xce)](_0x32a122(0xae));moment['tz'][_0x32a122(0xc6)]('Africa/LAGOS')[_0x32a122(0xb5)]('id');const _0x41ac33=moment['tz'](_0x32a122(0xac))[_0x32a122(0xce)](_0x32a122(0xbf));let _0x1c1341=await sck1[_0x32a122(0xd2)](),_0x2b4ec2=_0x32a122(0xc8)+fancytext(Config['ownername'][_0x32a122(0xd6)]('\x20')[0x0],0x3a)+'⟫━━⦿\x0a';_0x2b4ec2+=_0x32a122(0xbd)+_0x2395f3[_0x32a122(0xbc)]+_0x32a122(0xcb)+tlang()['title']+'\x0a│\x20Prefix:\x20[\x20'+prefix+'\x20]\x0a│\x20Owner:\x20'+Config['ownername']+_0x32a122(0xb3)+_0x4e5075[_0x32a122(0xdd)]+_0x32a122(0xe3)+_0x1c1341+_0x32a122(0xba)+runtime(process[_0x32a122(0xb8)]())+_0x32a122(0xde)+formatp(os[_0x32a122(0xb6)]()-os[_0x32a122(0xc9)]())+'/'+formatp(os[_0x32a122(0xb6)]())+_0x32a122(0xb9)+_0x410639+'\x0a│\x20Date:\x20'+_0x41ac33+'\x0a╰─────────────╯\x0a\x0a';for(const _0x239ca1 in _0x3d2691){_0x2b4ec2+=_0x32a122(0xcd)+tiny(_0x239ca1)+_0x32a122(0xb1);for(const _0x37ca4d of _0x3d2691[_0x239ca1]){_0x2b4ec2+='│\x20'+fancytext(_0x37ca4d,0x1)+'\x0a';}_0x2b4ec2+=_0x32a122(0xd9);}_0x2b4ec2+=_0x32a122(0xd8)+prefix+_0x32a122(0xc4)+prefix+_0x32a122(0xb0);let _0x386289={'image':{'url':await botpic()},'caption':_0x2b4ec2};return await _0x37ca48[_0x32a122(0xdb)](_0x2395f3[_0x32a122(0xe6)],_0x386289);}}));
+const commands = require('../lib').commands;
+const moment = require('moment-timezone');
+const os = require('os');
+const sck1 = require('some-module'); // Placeholder for the actual module
+
+Secktor['help']({
+  'pattern': 'help',
+  'alias': ['cmd'],
+  'desc': 'help cmd_name to know more about a specific command.\n*Eg:* _',
+  'category': 'general',
+  'react': '📡',
+  'filename': __filename
+}, async (sck, msg, args) => {
+  const prefix = '!'; // Placeholder for the actual prefix
+  if (args['split'](' ')[0]) {
+    let response = [];
+    const command = commands.find(cmd => cmd['pattern'] === args['split'](' ')[0].toLowerCase());
+    if (!command) {
+      return await msg['reply']('😔No Such commands.');
+    } else {
+      response.push('*🍁Command:* ' + command['pattern']);
+      if (command['category']) response.push('*✨Category:* ' + command['category']);
+      if (command['alias']) response.push('*⚡️Alias:* ' + command['alias']);
+      if (command['desc']) response.push('*🗂Description:* ' + command['desc']);
+      if (command['use']) response.push('*📡Usage:*\n ```' + prefix + command['pattern'] + ' ' + command['use'] + '```');
+      return await msg['reply'](response['join']('\n'));
+    }
+  } else {
+    const commandList = {};
+    commands.forEach(async (cmd) => {
+      if (!cmd['dontAddCommandList'] && cmd['pattern'] !== undefined) {
+        if (!commandList[cmd['category']]) commandList[cmd['category']] = [];
+        commandList[cmd['category']]['push'](cmd['pattern']);
+      }
+    });
+    const currentTime = moment(moment())['format']('HH:mm:ss');
+    moment.tz['setDefault']('Africa/Lagos')['locale']('id');
+    const currentDate = moment.tz('Africa/Lagos')['format']('DD/MM/YYYY');
+    let uptime = await sck1['uptime']();
+    let responseText = '┏━━⟪ ' + fancytext(Config['ownername']['split'](' ')[0], 58) + ' ⟫━━☬\n';
+    responseText += '╭─────────────╮\n│ User: ' + msg['pushName'] + '\n│ Theme: ' + tlang()['title'] + '\n│ Prefix: [ ' + prefix + ' ]\n│ Owner: ' + Config['ownername'] + '\n│ Plugins: ' + commands['countDocuments']() + '\n│ Users: ' + sck1['uptime']() + '\n│ Uptime: ' + runtime(process['uptime']()) + '\n│ Mem: ' + formatp(os['totalmem']() - os['freemem']()) + '/' + formatp(os['totalmem']()) + '\n│ Time: ' + currentTime + '\n│ Date: ' + currentDate + '\n╰─────────────╯\n\n';
+    for (const category in commandList) {
+      responseText += '┌── *' + tiny(category) + '* ──┐\n';
+      for (const command of commandList[category]) {
+        responseText += '│ ' + fancytext(command, 1) + '\n';
+      }
+      responseText += '└─────────────┘\n';
+    }
+    responseText += '└─────────────┘\n' + prefix + 'help cmd_name to know more about a specific command.\n*Eg:* ' + prefix + 'attp_\n*Made by 🥷 Excel*';
+    let response = { 'image': { 'url': await botpic() }, 'caption': responseText };
+    return await sck['sendMessage'](msg['chat'], response);
+  }
+});
+
     //---------------------------------------------------------------------------
 Secktor.cmd({
             pattern: "list",
