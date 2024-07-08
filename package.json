@@ -1,6 +1,6 @@
 {
-  "name": "izuku-md",
-  "version": "0.0.7",
+  "name": "Elite-md",
+  "version": "1.0",
   "description": "Multi device whatsapp bot by Nethindu.",
   "main": "lib/client.js",
     "engines" : { 
@@ -11,9 +11,9 @@
   "license": "GPL-3.0",
   "scripts": {
     "start": "pm2 start lib/client.js --deep-monitoring --attach --name izuku",
-    "stop": "pm2 stop izuku"
+    "stop": "pm2 stop Elite"
   },
-  "author": "NNethindu",
+  "author": "Nethindu",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^9.1.4",
