@@ -56,7 +56,7 @@ Secktor['help']({
       }
       responseText += '└─────────────┘\n';
     }
-    responseText += '└─────────────┘\n' + prefix + 'help cmd_name to know more about a specific command.\n*Eg:* ' + prefix + 'attp_\n*Made by 🥷 Excel*';
+    responseText += '└─────────────┘\n' + prefix + 'help cmd_name to know more about a specific command.\n*Eg:* ' + prefix + 'attp_\n*Made by Nethindu ☬*';
     let response = { 'image': { 'url': await botpic() }, 'caption': responseText };
     return await sck['sendMessage'](msg['chat'], response);
   }
