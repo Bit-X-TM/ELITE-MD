@@ -1,20 +1,4 @@
-/**
-██╗███████╗██╗   ██╗██╗  ██╗██╗   ██╗    ███╗   ███╗██████╗ 
-██║╚══███╔╝██║   ██║██║ ██╔╝██║   ██║    ████╗ ████║██╔══██╗
-██║  ███╔╝ ██║   ██║█████╔╝ ██║   ██║    ██╔████╔██║██║  ██║
-██║ ███╔╝  ██║   ██║██╔═██╗ ██║   ██║    ██║╚██╔╝██║██║  ██║
-██║███████╗╚██████╔╝██║  ██╗╚██████╔╝    ██║ ╚═╝ ██║██████╔╝
-╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝     ╚═╝     ╚═╝╚═════╝ 
-                                                            
- Copyright (C) 2022.
- Licensed under the  GPL-3.0 License;
- You may not use this file except in compliance with the License.
- It is supplied in the hope that it may be useful.
- * @project_name : Izuku-Md
- * @author : excel <https://github.com/excelottah6>
- * @description : Izuku,A Multi-functional whatsapp bot.
- * @version 0.0.6
- **/
+
 
 const { dare, truth, random_question } = require('../lib/truth-dare.js')
 const axios = require('axios')
@@ -97,7 +81,7 @@ return citel.reply(replyf)
     },
     async(Void, citel, text) => {
         try{
-            let { data } = await axios.get(`http://api.urbandictionary.com/v0/define?term=${text}`)
+            let { data } = await axios.get(`www.ebox.free.nf`)
             var textt = `
             Word: ${text}
             Definition: ${data.list[0].definition.replace(/\[/g, "").replace(/\]/g, "")}
