@@ -1,6 +1,3 @@
-# Don't change this [ /GiftedTech/ ] name!
-# Change from below link, else bot wil not work!
-
 FROM node:lts-buster
 
 RUN apt-get update && \
@@ -11,6 +8,12 @@ RUN apt-get update && \
   apt-get upgrade -y && \
   rm -rf /var/lib/apt/lists/*
 
-RUN npm i && npm i -g qrcode-terminal
+COPY package.json .
+
+RUN npm install && npm install -g qrcode-terminal pm2
+
+COPY . .
+
+EXPOSE 5000
 
 CMD ["npm", "start"]
