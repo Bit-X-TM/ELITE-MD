@@ -227,6 +227,7 @@ cmd({
     //---------------------------------------------------------------------------
 cmd({
             pattern: "alive",
+            react: "👋",
             category: "general",
             filename: __filename,
             desc: "is bot alive??"
@@ -238,9 +239,9 @@ Hello, ${citel.pushName},
 This is  𝗘𝗟𝗜𝗧𝗘 𝗠𝗗
 ${alivemessage}
 ◈Version:- _1.0_
-◈Uptime:- _${runtime(process.uptime())}_
-◈Owner:- _${Config.ownername}_
-◈Branch:- _${Config.BRANCH}_
+◈Uptime:- ${runtime(process.uptime())}
+◈Owner:- ${Config.ownername}
+◈Branch:- ${Config.BRANCH}
 Type ${prefix}menu for my command list.
 
 > © 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 ᳆⃞⃚🇱🇰ʀͥᴇᷧᴀͫʟ⃟   𝙴𝙻𝙸𝚃𝙴-𝚖𝚍
